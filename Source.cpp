@@ -269,7 +269,7 @@ int main()
 					case 3: 
 					{
 						std::string romanceSubGenreString;
-						std::cout << "\n Alright, I get it, you're either feeling depressed or about to have an awkward date. Let's pick out what you need.\n";
+						std::cout << "\n Everyone needs a good romance film to watch sometimes. Let's pick out what you need.\n";
 						std::cout << " You can choose from these subgenres: \n\n";
 						std::cout << " 1. Period Pieces \n" << " 2. Romantic Comedy \n" << " 3. Contemporary Romance \n" << " 4. Romantic Suspense \n" << " 5. Western \n";
 						std::cout << "\n Enter your preferred genre here (1-5): ";
@@ -422,7 +422,7 @@ int main()
 					case 5: 
 					{
 						std::string fantasySubGenreString;
-						std::cout << "\n I can completely relate, I want to escape to a fantastic land as well. Let's choose your form of escapism.\n";
+						std::cout << "\n I can completely relate, I want to escape to a fantastic land as well at times. Let's choose your form of escapism.\n";
 						std::cout << " You can choose from these subgenres: \n\n";
 						std::cout << " 1. Superhero \n" << " 2. Magic Realism \n" << " 3. Epic Fantasy \n" << " 4. Fairy Tales \n" << " 5. Dark Fantasy \n";
 						std::cout << "\n Enter you preferred genre here (1-5): ";
